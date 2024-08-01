@@ -1,0 +1,28 @@
+
+[
+    {
+        "Produto": "Josie Yoga Jacket",
+        "cor":"Black",
+        "tamanho":"M",
+        "quantidade":2
+    },    
+    {
+        "Produto": "Ariel Roll Sleeve Sweatshirt",
+        "cor":"Purple",
+        "tamanho":"S",
+        "quantidade":3
+    },
+    {
+        "Produto": "Balboa Persistence Tee",
+        "cor":"Gray",
+        "tamanho":"L",
+        "quantidade":5
+    },
+    {
+        "Produto": "Caesar Warm-Up Pant",
+        "cor":"Gray",
+        "tamanho":"34",
+        "quantidade":1
+    }
+    
+]
