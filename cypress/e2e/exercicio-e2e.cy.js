@@ -70,6 +70,6 @@ context('Exercicio - Testes End-to-end - Fluxo de pedido', () => {
   cy.get('#terms').click()
   cy.get('#place_order').click()
   });   
-
+  cy.get('.page-title').should('contain', 'PEDIDO RECEBIDO')
 
 })
